@@ -37,6 +37,8 @@ Output
 
 
 Reflection
+
+
 Inheritance made my code simpler. Instead of writing brand, year, and driver in every class, I wrote it once in Vehicle and all subclasses got it automatically. This saved a lot of repetition.
 Method overriding was useful for customizing each vehicle type. All vehicles start engines, but each does it differently. Making these methods abstract forced me to implement them in each subclass.
 The hardest part was understanding protected vs private modifiers and how super() works in constructors. At first composition and aggregation seemed similar, but now I see the difference - aggregation means one driver can be shared between multiple vehicles.
