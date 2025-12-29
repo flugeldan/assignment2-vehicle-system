@@ -30,7 +30,7 @@ bashjavac *.java
 java Main
 
 Output
-![Program Output](screenshots/output.png)
+![Program Output](docs/screenshots/output.png)
 
 
 
